@@ -2,7 +2,7 @@
 
 There are two projects in this repository, first one is aspnet-core, this is the backend in C# .NET Core and angular which is the frontend project
 
-# Requirements
+# Requirements 
 
 - Visual Studio 2019
 - NodeJS, npm
