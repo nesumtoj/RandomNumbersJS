@@ -13,6 +13,7 @@ There are two projects in this repository, first one is aspnet-core, this is the
 ### To start the backend, first open up the project in Visual Studio 2019
 
 - Set "RandomNumbersAngular.Web.Host" project as startup project
+- Build solution
 - Open Package Manager Console, set RandomNumbersAngular.EntityFrameworkCore as default project
 - Run command "Update-Database"
 - Debug project
