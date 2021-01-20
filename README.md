@@ -34,4 +34,4 @@ Manually insert records into the **matches** Table
      VALUES
            (GETDATE()+1, CURRENT_TIMESTAMP)*
            
-Use **GETDATE()+#** to add or subtract days
+Use **GETDATE() + or - any number** to add or subtract days
