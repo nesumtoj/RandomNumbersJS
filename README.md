@@ -22,3 +22,4 @@ There are two projects in this repository, first one is aspnet-core, this is the
 - In the project directory open command prompt
 - Run "npm install" command
 - Run "ng serve" command
+- Browse "http://localhost:4200" in any web browser
